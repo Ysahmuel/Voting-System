@@ -28,3 +28,7 @@
 
 ### 7. Poll Categories and Tags
 - Admins can categorize and tag polls for easy navigation and filtering.
+
+## Setup and Installation
+1. Clone the repository.
+2. Open the project in **Visual Studio**.
