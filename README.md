@@ -4,7 +4,6 @@
 
 ### 1. User Registration and Authentication
 - Users can sign up and log in using secure authentication methods.
-- Social media login options (optional).
 
 ### 2. Role-based Access Control
 - Admins can create, edit, and delete polls.
